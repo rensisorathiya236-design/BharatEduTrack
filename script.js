@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+ document.addEventListener("DOMContentLoaded", () => {
     const facultyBtn = document.querySelector(".faculty");
     const adminBtn = document.querySelector(".admin");
     const usernameInput = document.getElementById("username");
